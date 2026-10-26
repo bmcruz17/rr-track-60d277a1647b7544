@@ -1,0 +1,90 @@
+{
+ "client": "The Sunset Beach House",
+ "greeting": "Aloha Michel",
+ "updated": "Mon Oct 26, 2026, 10:50 AM HST",
+ "headline": "Your website is coming along beautifully",
+ "message": "Five improvements are done and live on your site. Two things are waiting on you (your VRBO reviews and link, and full-size photos), and three more are coming up. The delivery date below is for all the website work that does not depend on you.",
+ "phone": "(808) 265-5339",
+ "phoneTel": "+18082655339",
+ "stages": [
+  {
+   "id": "photo",
+   "title": "Your beach photo, bright and true",
+   "state": "done",
+   "badge": "Done",
+   "note": "The beach photo that opens your page is in, and it now shows as bright as your original. The darker look you noticed is gone."
+  },
+  {
+   "id": "desktop",
+   "title": "Looks great on a computer screen",
+   "state": "done",
+   "badge": "Done",
+   "note": "The page now makes better use of a wide computer screen, while staying easy to read and easy to tap on a phone."
+  },
+  {
+   "id": "host",
+   "title": "About the host",
+   "state": "done",
+   "badge": "Done",
+   "note": "Your photo and your own words now have their own section, \"About the host\", with the three parts just as you wrote them."
+  },
+  {
+   "id": "menu",
+   "title": "Menu link to \"About the host\"",
+   "state": "done",
+   "badge": "Done",
+   "note": "There is now a link to \"About the host\" in the menu next to \"The House\", and also in the list at the bottom of the page, which is the menu on a phone."
+  },
+  {
+   "id": "hero",
+   "title": "Welcome words on the beach photo",
+   "state": "done",
+   "badge": "Done",
+   "note": "The title and welcome words now sit up in the blue sky at the top of the photo, in white, so the beach and the water stay clear and bright. This is live now."
+  },
+  {
+   "id": "vrbo",
+   "title": "Your 11 VRBO reviews and your VRBO link",
+   "state": "waiting",
+   "badge": "Waiting on Michel",
+   "note": "When you send these, I will place them on the page exactly as written. Nothing is needed from you except sending them whenever you have a moment.",
+   "link": {
+    "label": "Open your VRBO dashboard",
+    "url": "https://www.vrbo.com/lp/b/owner-account",
+    "hint": "Sign in as an owner. You never need to share your password with anyone."
+   }
+  },
+  {
+   "id": "photos",
+   "title": "Full-size photos",
+   "state": "waiting",
+   "badge": "Waiting on Michel",
+   "note": "Your current photos are small, so they look a little soft on big screens. When you can send the full-size originals, they will look much sharper."
+  },
+  {
+   "id": "reviews",
+   "title": "VRBO reviews section",
+   "state": "upcoming",
+   "badge": "Up next",
+   "note": "A section on your page showing your VRBO reviews, built and ready to fill in as soon as the reviews and link arrive."
+  },
+  {
+   "id": "booking",
+   "title": "Booking",
+   "state": "upcoming",
+   "badge": "Up next",
+   "note": "A simple way for guests to ask about dates and book."
+  },
+  {
+   "id": "google",
+   "title": "Google tune-up",
+   "state": "upcoming",
+   "badge": "Up next",
+   "note": "Helping your page and your Google listing show up better when people search for a beach house on the North Shore."
+  }
+ ],
+ "estimate": {
+  "iso": "2026-10-30",
+  "note": "This is the date we are working toward for the website work that does not depend on anything from you. Your reviews, VRBO link and full-size photos will be added soon after you send them. If we finish sooner, you will see it right here."
+ }
+}
